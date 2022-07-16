@@ -1,0 +1,9 @@
+{
+  "pacientes": [
+    {
+      "nome": "Lucas",
+      "status": "Morreu mas passa bem",
+      "id": 4
+    }
+  ]
+}
